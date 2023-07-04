@@ -1,0 +1,21 @@
+Load list of first names
+
+Load list of last names
+-------------------------
+choose random first names
+assign name to a variable
+
+-------------------------
+choose random last name
+assign name to a variable
+
+-------------------------
+combine strings
+print the full name for the user 
+
+-------------------------
+prompt user if they would like to run the program again or quit
+    if quit
+        end program
+    else run again
+        repeat program
