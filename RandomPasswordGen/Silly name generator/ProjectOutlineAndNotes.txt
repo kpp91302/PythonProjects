@@ -1,5 +1,0 @@
-STRATEGY
-------------------------------------------------
-This is a warmup project so we don't need this to be overly complex or memory intensive
-We will use two lists of string objects, the first storing first names and the second storing last names.
-We will be using a tuple as a container for these lists
